@@ -69,7 +69,7 @@ The interface is meticulously designed with a sleek left sidebar dividing your w
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/provider-pilot.git
+   git clone https://github.com/hellocloudwebdev/provider-pilot.git
    cd provider-pilot
    ```
 
